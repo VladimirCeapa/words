@@ -1,2 +1,3 @@
-#words
-красивая надпись содержащая мотивирующее послание при наведении мыши
+# words
+
+beautiful inscription containing a motivating message when hovering over the mouseи
